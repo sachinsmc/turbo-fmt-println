@@ -22,7 +22,7 @@ The log message will be inserted in the next line relative to the selected varia
 
 fmt.Println("SelectedVariableEnclosingClassName -> SelectedVariableEnclosingFunctionName -> SelectedVariable", SelectedVariable)
 
-![alt text](https://camo.githubusercontent.com/90c27edaf0409a939abea10f45da5c78ffecb7beb79ef2f8609a0640543841ea/68747470733a2f2f692e6962622e636f2f30636a34476e582f747572626f666d747072696e746c6e2e676966 "Wrapping The log message")
+![alt text](./images/usage.gif "Wrapping The log message")
  
 
 Multiple cursor supported.
